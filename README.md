@@ -5,4 +5,5 @@
 
 - Also includes Bitcoin and Ethereum hashing and state management concepts.
 
-A detailed summary of everything I've learned so far is documented [here](https://docs.google.com/document/d/1GIsoMsNJu8i9FPDXV2HLMSYcbCuunLyH9tUUNbmS1cs/edit?usp=sharing).
+A detailed summary of everything till I've learned so far is documented [here](https://docs.google.com/document/d/1A2CLb0_yIdgQdWq5xnysNBKbd2mCgQaF26lA4BYBRAk/edit?usp=sharing).
+
